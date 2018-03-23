@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:weightSum="2"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/home_background"
+    android:layout_height="match_parent"
+    tools:context="com.milyoner.akademi.bilisim.milyoner.AnaMenu">
+
+
+
+    <RelativeLayout
+        android:layout_width="1dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:padding="20dp"
+            android:id="@+id/milyoner_logo"
+            android:src="@drawable/millionaire"
+            android:layout_margin="10dp"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:background="@drawable/buttonpasif"
+            android:layout_height="30dp">
+            <Switch
+                android:layout_width="wrap_content"
+                android:id="@+id/openvoice"
+                android:checked="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="@string/sound"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/white"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+        
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="1dp"
+        android:gravity="center"
+        android:padding="30dp"
+        android:weightSum="6"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:text="@string/start_game"
+            android:textColor="@drawable/girisbuttontextcolor"
+            android:background="@drawable/girisbutton"
+            android:onClick="yeniOyun"
+            android:layout_height="1dp" />
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:text="@string/highest_score"
+            android:id="@+id/yuksekscorlar"
+            android:onClick="yuksekScore"
+            android:layout_margin="5dp"
+            android:textColor="@drawable/girisbuttontextcolor"
+            android:background="@drawable/girisbutton"
+            android:layout_height="1dp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:onClick="otherprograms"
+            android:text="@string/other_programs"
+            android:textColor="@drawable/girisbuttontextcolor"
+            android:background="@drawable/girisbutton"
+            android:layout_height="1dp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:onClick="quit"
+            android:text="@string/quit"
+            android:textColor="@drawable/girisbuttontextcolor"
+            android:background="@drawable/girisbutton"
+            android:layout_height="1dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

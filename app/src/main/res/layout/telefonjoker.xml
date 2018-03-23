@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/home_background"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:weightSum="4">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:weightSum="5"
+            android:gravity="center"
+            android:background="#000000"
+            android:layout_height="1dp">
+            
+            <ImageView
+                android:layout_width="1dp"
+                android:layout_weight="1"
+                android:padding="15dp"
+                android:src="@drawable/phone_icon"
+                android:layout_height="match_parent" />
+            
+            <TextView
+                android:layout_width="1dp"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/white"
+                android:layout_weight="2"
+                android:textStyle="bold"
+                android:text="@string/calling"
+                android:layout_height="match_parent" />
+            
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/telefoncevap"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_weight="2"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:gravity="top"
+            android:layout_gravity="center"
+            android:background="@drawable/telefoncevaparka"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:paddingTop="30dp"
+            android:text="denenensadasd"
+            android:layout_marginBottom="10dp"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/tamam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:background="@drawable/girisbutton"
+            android:text="@string/thanks"
+            android:textAllCaps="false"
+            android:textColor="@drawable/girisbuttontextcolor" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

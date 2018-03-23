@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:weightSum="8">
+
+    
+    <ImageView
+        android:layout_width="70dp"
+        android:background="@drawable/millionaire"
+        android:layout_marginBottom="50dp"
+        android:layout_gravity="center"
+        android:layout_height="70dp" />
+    
+    
+    <TextView
+        android:id="@+id/aciklama"
+        android:background="@drawable/buttonpasif"
+        android:layout_width="300dp"
+        android:layout_height="1dp"
+        android:layout_gravity="center"
+        android:layout_margin="3dp"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/kazandiginpara"
+        android:layout_width="250dp"
+        android:layout_height="1dp"
+        android:layout_gravity="center"
+        android:layout_margin="3dp"
+        android:layout_weight="1.5"
+        android:background="@drawable/girisbutton"
+        android:gravity="center"
+        android:textColor="@drawable/girisbuttontextcolor" />
+
+    <Button
+
+        android:id="@+id/anasayfabutton"
+        android:layout_width="250dp"
+        android:layout_height="1dp"
+        android:layout_gravity="center"
+        android:layout_margin="3dp"
+        android:layout_weight="1.5"
+        android:background="@drawable/girisbutton"
+        android:gravity="center"
+        android:text="@string/anamenu"
+        android:textColor="@drawable/girisbuttontextcolor" />
+
+</LinearLayout>

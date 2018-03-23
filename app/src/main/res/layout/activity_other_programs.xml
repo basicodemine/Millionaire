@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="4"
+    android:background="@drawable/home_background"
+    android:orientation="vertical"
+    tools:context="com.milyoner.akademi.bilisim.milyoner.OtherPrograms">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:weightSum="9"
+        android:layout_margin="10dp"
+        android:background="#77000000"
+        android:orientation="horizontal"
+        android:layout_height="1dp">
+
+
+        <ImageView
+            android:layout_width="1dp"
+            android:src="@drawable/kpssimage"
+            android:layout_weight="2"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_weight="5"
+            android:text="@string/firstprogramad"
+            android:textColor="@android:color/white"
+
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:layout_width="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="2"
+            android:background="@drawable/seeitxml"
+            android:onClick="seefirst"
+            android:textColor="@android:color/white"
+            android:text="@string/seeit"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:weightSum="9"
+        android:layout_margin="10dp"
+        android:background="#77000000"
+        android:orientation="horizontal"
+        android:layout_height="1dp">
+
+
+        <ImageView
+            android:layout_width="1dp"
+            android:src="@drawable/ydsimage"
+            android:layout_weight="2"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_weight="5"
+            android:text="@string/secondprogramad"
+            android:textColor="@android:color/white"
+
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:layout_width="1dp"
+            android:layout_margin="3dp"
+            android:onClick="seesecond"
+            android:background="@drawable/seeitxml"
+            android:layout_weight="2"
+            android:textColor="@android:color/white"
+            android:text="@string/seeit"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:weightSum="9"
+        android:layout_margin="10dp"
+        android:background="#77000000"
+        android:orientation="horizontal"
+        android:layout_height="1dp">
+
+
+        <ImageView
+            android:layout_width="1dp"
+            android:layout_weight="2"
+            android:src="@drawable/haberokuimage"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_weight="5"
+            android:text="@string/thirdprogramad"
+            android:textColor="@android:color/white"
+
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:layout_width="1dp"
+            android:layout_weight="2"
+            android:onClick="seethird"
+            android:layout_margin="3dp"
+            android:background="@drawable/seeitxml"
+            android:textColor="@android:color/white"
+            android:text="@string/seeit"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:weightSum="9"
+        android:layout_margin="10dp"
+        android:background="#77000000"
+        android:orientation="horizontal"
+        android:layout_height="1dp">
+
+
+        <ImageView
+            android:layout_width="1dp"
+            android:src="@drawable/yesornoimage"
+            android:layout_weight="2"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_weight="5"
+            android:text="@string/fourthprogramad"
+            android:textColor="@android:color/white"
+
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:layout_width="1dp"
+            android:layout_weight="2"
+            android:layout_margin="3dp"
+            android:background="@drawable/seeitxml"
+            android:onClick="seefourth"
+            android:textColor="@android:color/white"
+            android:text="@string/seeit"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

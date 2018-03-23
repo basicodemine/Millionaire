@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    android:paddingLeft="30dp"
+    android:paddingTop="10dp"
+    android:paddingRight="30dp"
+    tools:context="com.milyoner.akademi.bilisim.milyoner.SkorListe">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="@string/highest_score"
+        android:textColor="@android:color/white"
+        android:background="@drawable/sorucontainer"
+        android:layout_height="40dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:weightSum="5"
+        android:layout_height="match_parent">
+
+
+        <ListView
+            android:layout_weight="3"
+            android:layout_width="1dp"
+            android:background="#aa000000"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/skorlistview"
+            android:layout_height="match_parent"></ListView>
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:paddingLeft="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <Button
+                android:background="@drawable/girisbutton"
+                android:gravity="center"
+                android:text="@string/duetoscore"
+                android:onClick="skoragore"
+                android:textAllCaps="false"
+                android:layout_marginBottom="10dp"
+                android:textColor="@drawable/girisbuttontextcolor"
+                android:layout_width="match_parent"
+                android:layout_height="35dp" />
+            <Button
+                android:background="@drawable/girisbutton"
+                android:gravity="center"
+                android:text="@string/duetodate"
+                android:onClick="tarihegore"
+                android:textAllCaps="false"
+                android:layout_marginBottom="10dp"
+                android:textColor="@drawable/girisbuttontextcolor"
+                android:layout_width="match_parent"
+                android:layout_height="35dp" />
+            <Button
+                android:background="@drawable/girisbutton"
+                android:gravity="center"
+                android:text="@string/clearall"
+                android:onClick="temizle"
+                android:textAllCaps="false"
+                android:layout_marginBottom="10dp"
+                android:textColor="@drawable/girisbuttontextcolor"
+                android:layout_width="match_parent"
+                android:layout_height="35dp" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    
+</LinearLayout>

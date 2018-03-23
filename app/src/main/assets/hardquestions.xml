@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<kolaysorular>
+
+
+    <sorular>
+        <soru>In what children's game are participants chased by someone designated It?</soru>
+        <a>Tag</a>
+        <b>Simon Says</b>
+        <c>Charades</c>
+        <d>Hopscotch</d>
+        <cevap>1</cevap>
+
+    </sorular>
+
+
+
+
+
+
+    <sorular>
+        <soru>On a radio, stations are changed by using what control?</soru>
+        <a>Tuning</a>
+        <b>Volume</b>
+        <c>Bass</c>
+        <d>Treble</d>
+        <cevap>1</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Which material is most dense?</soru>
+        <a>Silver</a>
+        <b>Styrofoam</b>
+        <c>Butter</c>
+        <d>Gold</d>
+        <cevap>4</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Which state in the United States is largest by area?</soru>
+        <a>Alaska</a>
+        <b>California</b>
+        <c>Texas</c>
+        <d>Hawaii</d>
+        <cevap>1</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>What is Aurora Borealis commonly known as?</soru>
+        <a>Fairy Dust</a>
+        <b>Northern Lights</b>
+        <c>Book of ages</c>
+        <d>a Game of Thrones main character</d>
+        <cevap>2</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Galileo was an Italian astronomer who ...</soru>
+        <a>developed the telescope</a>
+        <b>developed the telescope</b>
+        <c>discovered that the movement of pendulum produces a regular time measurement</c>
+        <d>All of the above</d>
+        <cevap>4</cevap>
+
+    </sorular>
+    <sorular>
+        <soru>Exposure to sunlight helps a person improve his health because</soru>
+        <a>the infrared light kills bacteria in the body</a>
+        <b>resistance power increases</b>
+        <c>the pigment cells in the skin get stimulated and produce a healthy tan</c>
+        <d>the ultraviolet rays convert skin oil into Vitamin D</d>
+        <cevap>4</cevap>
+
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>a club or a local sport association for remarkable achievements</a>
+        <b>amateur athlete, not necessarily an Olympian</b>
+        <c>National Olympic Committee for outstanding work</c>
+        <d>None of the above</d>
+        <soru>Sir Thomas Fearnley Cup is awarded to</soru>
+    </sorular>
+    <sorular>
+        <cevap>2</cevap>
+        <a>1968</a>
+        <b>1929</b>
+        <c>1901</c>
+        <d>1965</d>
+        <soru>Oscar Awards were instituted in</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>1998</a>
+        <b>1989</b>
+        <c>1979</c>
+        <d>1800</d>
+        <soru>When did Margaret Thatcher became the first female Prime Minister of Britain?
+        </soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>15th April</a>
+        <b>12th December</b>
+        <c>1st May</c>
+        <d>1st August</d>
+        <soru>When is the International Workers&#x27; Day?</soru>
+    </sorular>
+    <sorular>
+        <cevap>3</cevap>
+        <a>1962</a>
+        <b>1963</b>
+        <c>1964</c>
+        <d>1965</d>
+        <soru>When did China test their first atomic device?</soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>1904</a>
+        <b>1905</b>
+        <c>1908</c>
+        <d>1909</d>
+        <soru>When did Commander Robert Peary discover the North Pole?</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>819/sq. km</a>
+        <b>602/sq. km</b>
+        <c>415/sq. km</c>
+        <d>500/sq. km</d>
+        <soru>What is the population density of Kerala?</soru>
+    </sorular>
+    <sorular>
+        <cevap>2</cevap>
+        <a>4 km</a>
+        <b>25 km</b>
+        <c>500 m to 9 km</c>
+        <d>150 km</d>
+        <soru>What is the range of missile &#x27;Akash&#x27;?</soru>
+    </sorular>
+    <sorular>
+        <soru>In the U.S., if it&#x27;s not Daylight Saving Time, it&#x27;s what?</soru>
+        <a>Borrowed time</a>
+        <b>Overtime</b>
+        <c>Standard time</c>
+        <d>Party time</d>
+        <cevap>3</cevap>
+    </sorular>
+    <sorular>
+        <soru>Which part of the body are you most likely to &quot;stub&quot;?</soru>
+        <a>Toe</a>
+        <b>Knee</b>
+        <c>Elbow</c>
+        <d>Brain</d>
+        <cevap>1</cevap>
+    </sorular>
+    <sorular>
+        <soru>Which country is largest by area?</soru>
+        <a>UK</a>
+        <b>USA</b>
+        <c>Russia</c>
+        <d>China</d>
+        <cevap>3</cevap>
+    </sorular>
+    <sorular>
+        <soru>What does the &quot;F&quot; stand for in FBI?</soru>
+        <a>Foreign</a>
+        <b>Federal</b>
+        <c>Flappy</c>
+        <d>Face</d>
+        <cevap>2</cevap>
+    </sorular>
+    <sorular>
+        <soru>The US declared war on which country after the bombing of Pearl Harbor?</soru>
+        <a>Japan</a>
+        <b>Russia</b>
+        <c>Germany</c>
+        <d>China</d>
+        <cevap>1</cevap>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>Letter of Credit (L/C)</a>
+        <b>laissezfaire</b>
+        <c>inflation</c>
+        <d>None of the above</d>
+        <soru>A guarantee to an exporter that the importer of his goods will pay immediately for the
+            goods ordered by him, is known as
+        </soru>
+    </sorular>
+    <sorular>
+        <cevap>4</cevap>
+        <a>Visible light</a>
+        <b>Infrared radiation</b>
+        <c>X-rays and gamma rays</c>
+        <d>Ultraviolet radiation</d>
+        <soru>The ozone layer restricts</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>the first Buddhist pilgrim of China to visit India during the reign of Chandragupta
+            Vikramaditya
+        </a>
+        <b>the discoverer of Puerto Rico and Jamaica</b>
+        <c>the first Buddhist pilgrim of India to visit China</c>
+        <d>None of the above</d>
+        <soru>Fa-Hien was</soru>
+    </sorular>
+    <sorular>
+        <cevap>1</cevap>
+        <a>Harvard</a>
+        <b>University of Washington</b>
+        <c>Yale</c>
+        <d>Oxford</d>
+        <soru>What was the first university in the United States</soru>
+    </sorular>
+
+
+</kolaysorular>

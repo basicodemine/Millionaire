@@ -1,0 +1,48 @@
+<resources>
+
+
+    <string name="app_name">Who Wants to be Millionarie</string>
+    <string name="start_game">START GAME</string>
+    <string name="my_score">BAŞARIM</string>
+    <string name="highest_score">HIGHEST SCORES</string>
+    <string name="quit">QUIT</string>
+    <string name="p500">500</string>
+    <string name="p1000">1.000</string>
+    <string name="p2000">2.000</string>
+    <string name="p3000">3.000</string>
+    <string name="p5000">5.000</string>
+    <string name="p7500">7.500</string>
+    <string name="p15000">15.000</string>
+    <string name="p30000">30.000</string>
+    <string name="p60000">60.000</string>
+    <string name="p125000">125.000</string>
+    <string name="p250000">250.000</string>
+    <string name="p1000000">1.000.000</string>
+    <string name="withdraw">WITHDRAW</string>
+    <string name="Audience_answers">Ask the Audience</string>
+    <string name="okay">Okay</string>
+    <string name="anamenu">Main Menu</string>
+    <string name="game_over">Game is OVER\nYour reward:</string>
+    <string name="currency">$</string>
+    <string name="withdraw_sure">Are you sure about withdraw ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="calling">Calling Mr Smith...</string>
+    <string name="second">Sec</string>
+    <string name="point">Point</string>
+    <string name="duetoscore">To Score</string>
+    <string name="clearall">Clear</string>
+    <string name="duetodate">To Date</string>
+    <string name="seeit">See</string>
+    <string name="firstprogramad">Kpss Günlüğüm</string>
+    <string name="secondprogramad">Yds Kelime Ezberle Test Çöz</string>
+    <string name="thirdprogramad">Son Dakika Haber Oku</string>
+    <string name="fourthprogramad">Yes or No Game</string>
+    <string name="other_programs">Other Programs</string>
+    <string name="game_over_final">Congratulations!!! You Complete the Millionaire Competition Successfully</string>
+    <string name="sound">Sound</string>
+    <string name="interstitial_full_screen">ca-app-pub-7128529153485643/8232447858</string>
+    <string name="thanks">Thank you!</string>
+
+
+</resources>

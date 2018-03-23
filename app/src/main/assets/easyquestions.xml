@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kolaysorular>
+    <sorular>
+        <soru>Which Golf player is known as the White Shark?</soru>
+        <a>Greg Norman</a>
+        <b>Woods</b>
+        <c>I.Ballesteros</c>
+        <d>Jack Nicklaus</d>
+        <cevap>4</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>In Roman numeric what is the letter "M"?</soru>
+        <a>100</a>
+        <b>1000</b>
+        <c>500</c>
+        <d>50</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>In which city is the "Heathrow" airport?</soru>
+        <a>London</a>
+        <b>Glasgow</b>
+        <c>Dublin</c>
+        <d>Milan</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who wrote "Les Fleurs du Mal"?</soru>
+        <a>Baudelaire</a>
+        <b>Verlaine</b>
+        <c>Flaubert</c>
+        <d>Proust</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What does "WWW" means?</soru>
+        <a>World Wide Web</a>
+        <b>Web Week Web</b>
+        <c>World Wrestling Web</c>
+        <d>We Were Web</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>In which capital city would you find "Piccadilly" circus?</soru>
+        <a>New York</a>
+        <b>London</b>
+        <c>Dublin</c>
+        <d>Paris</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Where in the human body is the "Phalanx"?</soru>
+        <a>In the heart</a>
+        <b>In the head</b>
+        <c>In the ear</c>
+        <d>In the hand</d>
+        <cevap>4</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Which Russian leader introduced "Perestroika"?</soru>
+        <a>Marx</a>
+        <b>Putin</b>
+        <c>Stalin</c>
+        <d>Gorbachev</d>
+        <cevap>4</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the capital of Russia?</soru>
+        <a>Leningrad</a>
+        <b>Kiev</b>
+        <c>Moscow</c>
+        <d>Orsk</d>
+        <cevap>3</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who invented dynamite?</soru>
+        <a>Enrico Ferml</a>
+        <b>Albert Einstein</b>
+        <c>Alfred Nobel</c>
+        <d>Benjamin Franklin</d>
+        <cevap>3</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Where in the human body is the "Alveolus"?</soru>
+        <a>In the Lung</a>
+        <b>In the Liver</b>
+        <c>In the Heart</c>
+        <d>In the Brain</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the symbol of Gold?</soru>
+        <a>Gd</a>
+        <b>Or</b>
+        <c>Gi</c>
+        <d>Au</d>
+        <cevap>4</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Where would you find the stadium "Old Trafford"?</soru>
+        <a>Liverpool</a>
+        <b>Manchester</b>
+        <c>London</c>
+        <d>Madrid</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who said "Dadum tractum cst"?</soru>
+        <a>J Caesar</a>
+        <b>Jesus</b>
+        <c>Napoleon</c>
+        <d>Hannibal</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>In Roman numerals what is the letter "C" ?</soru>
+        <a>75</a>
+        <b>100</b>
+        <c>5</c>
+        <d>1000</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who was the ancient Egyptian god of the Sun?</soru>
+        <a>Anubi</a>
+        <b>Ra</b>
+        <c>Horus</c>
+        <d>Anulu</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>If you were born on November 20, what sign are you?</soru>
+        <a>Leo</a>
+        <b>Libra</b>
+        <c>Scorpio</c>
+        <d>Gemini</d>
+        <cevap>3</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the unit of currency in Greece?</soru>
+        <a>Euro</a>
+        <b>Dracma</b>
+        <c>Lira</c>
+        <d>Greek dollar</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the capital of Bulgaria?</soru>
+        <a>Bucharest</a>
+        <b>Budapest</b>
+        <c>Sofia</c>
+        <d>Kiev</d>
+        <cevap>3</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the capital of Romania?</soru>
+        <a>Bucharest</a>
+        <b>Budapest</b>
+        <c>Sofia</c>
+        <d>Kiev</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who was the ancient Roman god of warfare?</soru>
+        <a>Ares</a>
+        <b>Mercury</b>
+        <c>Dionysus</c>
+        <d>Mars</d>
+        <cevap>4</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who is Cupid's equivalent in Greek mythology?</soru>
+        <a>Apollo</a>
+        <b>Eros</b>
+        <c>Saturn</c>
+        <d>Jupiter</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the color of New York taxi?</soru>
+        <a>Yellow</a>
+        <b>Red</b>
+        <c>Green</c>
+        <d>Blue</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Bacchus and Dionysus are both the gods of what?</soru>
+        <a>Wine</a>
+        <b>Wisdom</b>
+        <c>Warfare</c>
+        <d>Sun</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>What is the nit of currency in Northern Ireland?</soru>
+        <a>Pound</a>
+        <b>Euro</b>
+        <c>Dollar</c>
+        <d>Lira</d>
+        <cevap>1</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who invented cinema?</soru>
+        <a>Brother Cinemas</a>
+        <b>Brother Lumiere</b>
+        <c>Brother Wright</c>
+        <d>Brother Sandish</d>
+        <cevap>2</cevap>
+    </sorular>
+
+    <sorular>
+        <soru>Who was the director of the film "E.T."?</soru>
+        <a>A Parker</a>
+        <b>P Jackson</b>
+        <c>R Scott</c>
+        <d>S Spielberg</d>
+        <cevap>4</cevap>
+    </sorular>
+
+</kolaysorular>
