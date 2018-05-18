@@ -317,6 +317,7 @@ public class Oyun {
                 SesCalIkiSaniye(R.raw.sikisaretleme);
                 DogruButtonHerzamanYesil(soru.getDogrucevap());
                 ct.cancel();
+                a.setEnable(false);
                 b.setEnabled(false);
                 c.setEnabled(false);
                 d.setEnabled(false);
@@ -378,6 +379,7 @@ public class Oyun {
 
                 DogruButtonHerzamanYesil(soru.getDogrucevap());
                 ct.cancel();
+                b.setEnabled(false);
                 a.setEnabled(false);
                 c.setEnabled(false);
                 d.setEnabled(false);
@@ -439,6 +441,7 @@ public class Oyun {
 
                 DogruButtonHerzamanYesil(soru.getDogrucevap());
                 ct.cancel();
+                c.setEnabled(false);
                 b.setEnabled(false);
                 a.setEnabled(false);
                 d.setEnabled(false);
@@ -499,6 +502,7 @@ public class Oyun {
                 SesCalIkiSaniye(R.raw.sikisaretleme);
                 DogruButtonHerzamanYesil(soru.getDogrucevap());
                 ct.cancel();
+                d.setEnabled(false);
                 b.setEnabled(false);
                 c.setEnabled(false);
                 a.setEnabled(false);
