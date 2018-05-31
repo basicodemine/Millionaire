@@ -317,7 +317,7 @@ public class Oyun {
                 SesCalIkiSaniye(R.raw.sikisaretleme);
                 DogruButtonHerzamanYesil(soru.getDogrucevap());
                 ct.cancel();
-                a.setEnable(false);
+                a.setEnabled(false);
                 b.setEnabled(false);
                 c.setEnabled(false);
                 d.setEnabled(false);
