@@ -1,8 +1,10 @@
 # Millionaire
 ## Simple Android Game (Who wants to be Millionaire)
 
-### See on Googleplay :)
-[Click HERE!](https://play.google.com/store/apps/details?id=com.milyoner.akademi.bilisim.milyoner
+### NOTE: Googleplay store banned my account due to this app. People take care ! Even I mailed him just stupid google robots answered my appeal mail. If you are considering to edit this code and publish on GP please change graphics and logos. Thank you! 
+
+### Check PROJECT :)
+[Click HERE!](https://androidappsapk.co/detail-kim-atanmak-ister-2017/
 )
 
 ![alt text](https://image.ibb.co/jZ08C7/milyoner_coverr_ing.png "preview")
