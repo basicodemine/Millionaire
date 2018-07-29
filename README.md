@@ -1,7 +1,7 @@
 # Millionaire
 ## Simple Android Game (Who wants to be Millionaire)
 
-### NOTE: Googleplay store banned my account due to this app. People take care ! Even I mailed him just stupid google robots answered my appeal mail. If you are considering to edit this code and publish on GP please change graphics and logos. Thank you! 
+### NOTE: Googleplay store banned my account due to this app. People take care ! Even I mailed to GP just stupid google robots answered my appeal mail. If you are consider to editing this code and publish on GP please change graphics and logos. Thank you! 
 
 ### Check PROJECT :)
 [Click HERE!](https://androidappsapk.co/detail-kim-atanmak-ister-2017/
